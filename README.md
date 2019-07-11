@@ -15,7 +15,7 @@ many hard thresholds and input image have to set in the code itself.</p>
 <h2>Example</h2>
 
 Input Image
-![Input Image](./img_3.jpg)
+![Input Image](./img_3.jpg)e
 
 In between processing:
 
@@ -29,10 +29,10 @@ Final Output: Here we get single image corresponding to each letter in the text.
 ![3](./segmented_img/img1/1_1_3.jpg)
 ![4](./segmented_img/img1/1_1_4.jpg)
 ![5](./segmented_img/img1/1_1_5.jpg)
-![6](./segmented_img/img1/1_1_6.jpg)
-![7](./segmented_img/img1/1_1_7.jpg)
-![8](./segmented_img/img1/1_1_8.jpg)
-![9](./segmented_img/img1/1_1_9.jpg)
-![10](./segmented_img/img1/1_1_10.jpg)
-![11](./segmented_img/img1/1_1_11.jpg)
-![12](./segmented_img/img1/1_1_12.jpg)
+![6](./segmented_img/img1/1_2_1.jpg)
+![7](./segmented_img/img1/1_2_2.jpg)
+![8](./segmented_img/img1/1_2_3.jpg)
+![9](./segmented_img/img1/1_3_1.jpg)
+![10](./segmented_img/img1/1_3_2.jpg)
+![11](./segmented_img/img1/1_3_3.jpg)
+![12](./segmented_img/img1/1_4_1.jpg)
